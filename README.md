@@ -26,7 +26,15 @@
 
 ### 🧠 About Me
 
-
+```yaml
+engineer:
+  name: Sajjad Shakeri
+  core_philosophy: "Understanding the systems under the hood — no superficial vibe-coding."
+  current_focus:
+    - Designing production-grade LLM architectures (RAG, agentic workflows, evals)
+    - Developing OS-level productivity & learning utilities
+    - Contributing to and maintaining impactful open-source tools
+```
 
 ---
 
